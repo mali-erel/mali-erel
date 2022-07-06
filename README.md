@@ -3,12 +3,8 @@
   <li>I'm senior student of Electric Electronic Engineer in TED University in Turkey.</li>
   <li>I'm passionate about coding! Currently I'm doing minor programme to software engineering.</li>
   </ul>
-![I'm senior student of Electric Electronic Engineer in TED University in Turkey. I'm passionate about coding! Currently I'm doing minor programme to software engineering.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm currently learning Machine Learning and Deep Learning. I'm capeable of Java, Python. My desire is to improve my coding skills and electric skills and combine them to future projects.
-
-Skills: Python / Java / Machine Learning /
-
+- 🛠 Skills: Python / Java / Machine Learning
 - 🌱 I’m currently learning Machine Learning and improve my Python skills. 
 - 📫 How to reach me: erel.mali99@gmail.com or mali.erel@icloud.com 
 - 😄 Pronouns: He/Him 
