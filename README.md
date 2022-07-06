@@ -1,6 +1,6 @@
-##                                                      Hi there 👋, my name is Mehmet Ali!
-####◌ I'm senior student of Electric Electronic Engineer in TED University in Turkey. 
-####◌ I'm passionate about coding! Currently I'm doing minor programme to software engineering.
+<center><h1>Hi there 👋, my name is Mehmet Ali!</h1></center>               
+####◌I'm senior student of Electric Electronic Engineer in TED University in Turkey. 
+####◌I'm passionate about coding! Currently I'm doing minor programme to software engineering.
 ![I'm senior student of Electric Electronic Engineer in TED University in Turkey. I'm passionate about coding! Currently I'm doing minor programme to software engineering.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm currently learning Machine Learning and Deep Learning. I'm capeable of Java, Python. My desire is to improve my coding skills and electric skills and combine them to future projects.
