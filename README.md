@@ -1,4 +1,4 @@
-                                                      ## Hi there 👋, my name is Mehmet Ali!
+##                                                      Hi there 👋, my name is Mehmet Ali!
 ####◌ I'm senior student of Electric Electronic Engineer in TED University in Turkey. 
 ####◌ I'm passionate about coding! Currently I'm doing minor programme to software engineering.
 ![I'm senior student of Electric Electronic Engineer in TED University in Turkey. I'm passionate about coding! Currently I'm doing minor programme to software engineering.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
