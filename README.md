@@ -2,7 +2,7 @@
 <ul>
   <li>I'm senior student of Electric Electronic Engineer in TED University in Turkey.</li>
   <li>I'm passionate about coding! Currently I'm doing minor programme to software engineering.</li>
-  </ul>
+</ul>
 
 - 🛠 Skills: Python / Java / Machine Learning
 - 🌱 I’m currently learning Machine Learning and improve my Python skills. 
@@ -17,7 +17,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mali-erel)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mali-erel)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mali-erel&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/mali-erel)  
